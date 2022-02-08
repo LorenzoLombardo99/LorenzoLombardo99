@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LorenzoLombardo
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning Angular and .NET
+- 📫 How to reach me: Linkedin: Lorenzo Lombardo  lorenzoloccio99@gmail.com
